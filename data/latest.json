@@ -1,0 +1,89 @@
+{
+  "lastUpdate": "12.10.2026 19:41",
+  "days": [
+    {
+      "date": "01.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 480,
+      "inside": 486,
+      "difference": 6
+    },
+    {
+      "date": "02.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 480,
+      "inside": 416,
+      "difference": -64
+    },
+    {
+      "date": "03.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 0,
+      "inside": 0,
+      "difference": 0
+    },
+    {
+      "date": "04.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 0,
+      "inside": 0,
+      "difference": 0
+    },
+    {
+      "date": "05.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 480,
+      "inside": 480,
+      "difference": 0
+    },
+    {
+      "date": "06.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 480,
+      "inside": 407,
+      "difference": -73
+    },
+    {
+      "date": "07.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 480,
+      "inside": 722,
+      "difference": 242
+    },
+    {
+      "date": "08.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 480,
+      "inside": 485,
+      "difference": 5
+    },
+    {
+      "date": "09.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 480,
+      "inside": 396,
+      "difference": -84
+    },
+    {
+      "date": "10.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 0,
+      "inside": 0,
+      "difference": 0
+    },
+    {
+      "date": "11.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 0,
+      "inside": 0,
+      "difference": 0
+    },
+    {
+      "date": "12.10.2026",
+      "name": "Emin Cihangir Us",
+      "target": 480,
+      "inside": 365,
+      "difference": -115
+    }
+  ]
+}

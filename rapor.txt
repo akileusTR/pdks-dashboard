@@ -1,0 +1,174 @@
+ULAKYAŞAM - Ulak Yaşam
+ULKT09 - PDKS Süre Raporu
+ULAK HABERLEŞME A.Ş.
+
+emin.us
+
+8.03 23.01.05-01	 	©2026 IAS All Rights Reserved
+Yazılım Uzman Mühendisi
+Hoşgeldin Emin Cihangir,
+Hızlı Giriş
+Talepler / Veri Girişi
+Yönetici İşlemleri
+24.09.2026
+24.09.2026
+Onaylanmamış İzin Taleplerinizi Geri Çekebilirsiniz
+Portalımız ULAKnet'e Taşındı
+Emin Cihangir Us
+ANA SAYFA
+SIK KULLANILANLAR
+ORGANİZASYON ŞEMASI
+ULAKNET
+Canias'ta Yenilikler
+Aktif Kullanıcı Sayısı:
+Tarih
+|
+İsim Soyisim
+|
+Hedef (dk)
+|
+İçeride (dk)
+|
+Dışarıda (dk)
+|
+Öğle Arası (dk)
+|
+1
+01.10.2026
+Emin Cihangir Us
+480
+486
+2
+02.10.2026
+Emin Cihangir Us
+480
+416
+3
+03.10.2026
+Emin Cihangir Us
+0
+0
+4
+04.10.2026
+Emin Cihangir Us
+0
+0
+5
+05.10.2026
+Emin Cihangir Us
+480
+480
+6
+06.10.2026
+Emin Cihangir Us
+480
+407
+7
+07.10.2026
+Emin Cihangir Us
+480
+722
+8
+08.10.2026
+Emin Cihangir Us
+480
+485
+9
+09.10.2026
+Emin Cihangir Us
+480
+370
+69
+68
+74
+67
+0
+0
+0
+0
+0
+0
+75
+75
+75
+75
+101
+101
+72
+72
+Tablo
+Çizelge
+Pivot
+RwCnt : 9Say : 0Top : 0Ort : 0Mak : 0Min : 0
+Tarih
+|
+İsim
+|
+Soyisim
+|
+Yön
+|
+1
+2
+3
+9.10.2026 13:03:06
+EMİN CİHANGİR
+US
+GİRİŞ
+9.10.2026 11:51:41
+EMİN CİHANGİR
+US
+ÇIKIŞ
+9.10.2026 10:57:11
+EMİN CİHANGİR
+US
+GİRİŞ
+Tablo
+Çizelge
+Pivot
+RwCnt : 3Say : 0Top : 0Ort : 0Mak : 0Min : 0
+Sicil No
+|
+İsim Soyisim
+|
+Hedef
+|
+Gerçekleşen
+|
+Bölüm
+|
+1
+0428
+Emin Cihangir Us
+3.360
+3.366
+Fiziksel ve Erişim Katmanı Yazılımları Müdürlüğü
+Tablo
+Çizelge
+Pivot
+RwCnt : 1Say : 10Top : 0Ort : 0Mak : 0Min : 0
+Haftasonlarını Kaldır
+Raporlayabileceğiniz Personel Listesi:
+Seçilen Personelin Seçilen Gün İçerisindeki Hareket Dökümü :
+Evden / Müşteriden
+Resmi Tatil
+Mesai Süreleri Raporu :
+(Alttaki rapordan satır seçerek detaylı döküm görebilirsiniz)  >>>
+Haftasonu
+İzin
+Görev
+Kriteri Karşılar
+Kriteri Karşılamaz
+(Yukarıdan tarih aralığı belirleyip, alttaki listeden personel seçerek "Listele" butonuna basabilirsiniz)
+Listele
+Haftasonlarını Getir
+Ayrılan Personeli Getir
+Bitiş Tarihi
+Başlangıç Tarihi
+-
+Firma
+PDKS Süre Raporu
+PDKS Süre Raporu >
+ULKT09
+ULKT09D001
+CANIAS | ULAKPROD | 00 | emin.us
